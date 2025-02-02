@@ -17,9 +17,6 @@
 ## 📌 Main Project    
 🎟️ [RSVP Events Managment System](https://github.com/yourusername/event-ms) - a platform to manage and organize your events
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjadkouayed&show_icons=true&theme=dark)  
-
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](www.linkedin.com/in/amjadkouayed)  
 - ✉️ Email: amjadkouayed@gmail.com 
