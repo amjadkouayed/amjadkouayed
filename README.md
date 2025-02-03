@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Amjad 👋
 
 ## 🚀 About Me  
 - 🎓 Aspiring Software Developer | Junior Developer  
