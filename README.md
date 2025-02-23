@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, JavaScript, TypeScript  
-- **Frontend:** React, html, css 
+- **Frontend:** Html, CSS, Javascript, React, Next.js
 - **Backend:** Express.js, Node.js  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Others:** Git, GitHub, Figma, Linear, Miro, Trello
